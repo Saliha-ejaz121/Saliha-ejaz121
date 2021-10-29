@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Saliha-ejaz121
-- 👀 I’m interested in frontend baking ;p
+- 👋 Hi, I’m Saliha Ejaz
+- 💻 i am doing Bachelors of Computer Science from Comsats univeristy Islamabad.
+- 👀 I’m interested in frontend baking 😉
 - 🌱 I’m currently learning MERN 
 - 📫Contact me
 salihaejaz123@gmail.com
