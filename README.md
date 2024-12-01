@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saliha Ejaz
-- 💻 i am doing Bachelors of Computer Science from Comsats univeristy Islamabad.
-- 👀 I’m interested in frontend baking 😉
-- 🌱 I’m currently learning MERN 
+- 💻 BSCS (MSE).
+- 👀 I’m interested in BCI cooking, Software Engineering Baking. 😉
+- 🌱 I’m currently learning Neural Nets 
 - 📫Contact me
 salihaejaz123@gmail.com
 
